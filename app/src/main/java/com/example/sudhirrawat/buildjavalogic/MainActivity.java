@@ -43,8 +43,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void init() {
-        icon = (ImageView) findViewById(R.id.iconJava);
-        icon.setOnClickListener(this);
+//        icon = (ImageView) findViewById(R.id.iconJava);
+//        icon.setOnClickListener(this);
 //reverseEachWordOfString("hello sudhir rawat");
         permuteString("","JSP" );
         checkDuplicateUsingAdd(numberArray);
